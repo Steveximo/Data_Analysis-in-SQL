@@ -1,4 +1,4 @@
-# Data-Exploration-in-SQL
+# Data-Analysis-in-SQL
 # ABOUT THE PROJECT
   This project/repository analyzed some of the reported causes of deaths globally for the periods according to different countries and the continents.
   The data set is from "KAGGLE" an online data source and can be accessed at https://www.kaggle.com/datasets/madhurpant/world-deaths-and-causes-1990-2019
